@@ -5,9 +5,13 @@ API simples com NodeJS + NestJS para armazenar usuários (nome e e-mail) em mem�
 Integrantes do grupo: 
 
 Andréia Macedo de Lima
+
 Silvanio de Souza Aguiar Junior
+
 Denis Lucas Donato
+
 Gênilson Martins Moreira
+
 Renildo da Silva Santos Junior
 
 
